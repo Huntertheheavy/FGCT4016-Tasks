@@ -28,4 +28,6 @@ public:
 	UFUNCTION(BlueprintCallable)
 	virtual void Greeting();
 
+public:
+	virtual void OnConstruction(const FTransform& Transform) override;
 };
