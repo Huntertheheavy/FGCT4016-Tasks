@@ -16,12 +16,12 @@ This repo simply acts as a hub for all other tasks, which can be found by lookin
 [Task 3 - Week 3](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-3)
 
 
-[Task 4 - Week 5](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-5)
+[Task 4 - Week 5](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-4)
 
 
-[Task 5 - Week 6](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-6)
+[Task 5 - Week 6](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-5)
 
-[Task 6 - Week 7]()
+[Task 6 - Week 7](https://github.com/University-for-the-Creative-Arts/FGCT4016-Task-6)
 
 
 
